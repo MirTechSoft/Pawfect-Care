@@ -1,0 +1,17 @@
+The purpose of this file is to provide database credentials
+-----------------------------------------------------------
+Credentials of Firebase
+email: mmohibmalik4@gmail.com
+password: mohib1234@
+-----------------------------------------------------------
+Database tables
+1. appointments
+2. contactUs
+3. feedbacks
+4. petAdoptions
+5. pets
+6. products
+7. successStories
+8. users
+9. vets
+10. wishlist
